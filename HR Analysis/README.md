@@ -36,3 +36,9 @@ Attrition in human resources refers to the gradual loss of employees overtime. I
 * Model Building
 * Model Evaluvation
 * Conclusion
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project Documentation Link: https://github.com/Bayern19Feb/Blogs-Articles/blob/main/HR_Project%201.docx
+
+IPYNB Link: https://github.com/Bayern19Feb/Evalu_Proj/blob/main/HR%20Analysis/HR%20Project.ipynb
